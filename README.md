@@ -9,7 +9,7 @@
 * Currently focusing on Python to develop AI, with the goal of advancing into game development. 🧩
 
 ### Goal
-Aspiring game developer. 🎮 💻
+* Aspiring game developer. 🎮 💻
 
 ### Hobbies: 
 * Reading books 📖
