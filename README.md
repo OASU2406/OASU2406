@@ -20,7 +20,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfLuviePOqQJ1yuhvxr80AsqV91Btr2rqZw&s" style="display: inline-block" width="40px" height="40px""> 
 <img src="https://media.jvt.me/53239026de.png" style="display: inline-block" width="40px" height="40px"">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="display: inline-block" width="40px" height="40px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" style="display: inline-block" width="40px" height="40px">
 </div>
 
 ### Connect with Me
